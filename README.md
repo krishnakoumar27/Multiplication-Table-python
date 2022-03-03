@@ -1,5 +1,5 @@
 # Multiplication-Table-python
-Multiplication of tables from 1 to 50, divided into 10 parts containing 5 each.
+Multiplication of tables from 1 to 50, divided into 10 parts containing 5 tables each.
 
 ## Mutliplication Table using python and pyfpdf
 - I have used the **pyfpdf** for converting the tables into pdf format. 
